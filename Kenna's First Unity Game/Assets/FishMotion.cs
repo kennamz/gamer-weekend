@@ -36,13 +36,11 @@ public class FishMotion : MonoBehaviour
     {
         var moveAmount = Speed * Time.deltaTime;
         if (movingToTheRight)
-        {
-            //_myTransform.rotation.y = 180f;
+        { 
             _myTransform.position += new Vector3(moveAmount, 0, 0);
         }
         else
         {
-            //_myTransform.rotation.y = 0f;
             _myTransform.position += new Vector3(-1 * moveAmount, 0, 0);
         }
         
