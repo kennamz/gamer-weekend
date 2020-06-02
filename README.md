@@ -4,6 +4,7 @@ This is an attempt at learning Unity and making a few beginner games.
 
 # Change Log
 
+* 6/2 - Added functionality to fish food bottle button. Clicking the bottle makes fish flakes appear at the top, sink down, remain for a moment, then disappear.
 * 5/19 - Added tutorial and fish food UI elements. Added fish flakes sprite.
 * 5/17 - Added a treasure chest aerator that occasionally opens and releases an air bubble, which floats to the top.
 * 5/16 - Added a sprite of baby fish that appear and begin swimming in the tank when the fish eggs are clicked.
